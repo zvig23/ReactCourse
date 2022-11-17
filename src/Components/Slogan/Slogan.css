@@ -1,0 +1,13 @@
+.Slogan {
+    color:aqua;
+    }
+    
+.Slogan > p::first-letter {
+        color: aliceblue;
+        font-size: 100px;
+    }
+    
+        
+.Slogan > p {
+color: bisque;
+}

@@ -1,0 +1,9 @@
+.Footer {
+    font-family: 'Brush Script MT', cursive;
+
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: column;
+}

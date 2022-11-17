@@ -1,0 +1,10 @@
+.Home {
+    text-shadow: 2px 2px 5px white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 20px;
+    flex-direction: column;
+}

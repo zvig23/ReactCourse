@@ -1,0 +1,8 @@
+.Sale {
+color : green;
+background-color: burlywood;	
+}
+
+.Sale > span{
+    text-decoration: dashed;
+}
